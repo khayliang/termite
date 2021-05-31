@@ -1,0 +1,23 @@
+{
+  "name": "covid-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khayliang/covid-db.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khayliang/covid-db/issues"
+  },
+  "homepage": "https://github.com/khayliang/covid-db#readme",
+  "dependencies": {
+    "automerge": "^1.0.1-preview.3",
+    "lzutf8": "^0.6.0"
+  }
+}
