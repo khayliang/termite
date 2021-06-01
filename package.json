@@ -1,5 +1,5 @@
 {
-  "name": "covid-db",
+  "name": "termite",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,16 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/khayliang/covid-db.git"
+    "url": "git+https://github.com/khayliang/termite.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/khayliang/covid-db/issues"
+    "url": "https://github.com/khayliang/termite/issues"
   },
-  "homepage": "https://github.com/khayliang/covid-db#readme",
+  "homepage": "https://github.com/khayliang/termite#readme",
   "dependencies": {
     "automerge": "^1.0.1-preview.3",
     "lzutf8": "^0.6.0"
+  },
+  "devDependencies": {
+    "jest": "^27.0.3"
   }
 }
